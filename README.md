@@ -5,14 +5,14 @@ A tiny, no-frills Morse code **encoder/decoder** for Android.
 </p>
 
 <p align="center">
-  <a href="https://github.com/theshoqanebi/simple-adb-wifi/releases/download/v1.0/app-release.apk">
+  <a href="https://github.com/theshoqanebi/android-morse/releases/download/v1.0/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK">
   </a>
-  <a href="https://github.com/theshoqanebi/simple-adb-wifi">
-    <img src="https://img.shields.io/github/stars/theshoqanebi/simple-adb-wifi?style=for-the-badge" alt="Stars">
+  <a href="https://github.com/theshoqanebi/android-morse">
+    <img src="https://img.shields.io/github/stars/theshoqanebi/android-morse?style=for-the-badge" alt="Stars">
   </a>
-  <a href="https://github.com/theshoqanebi/simple-adb-wifi">
-    <img src="https://img.shields.io/github/license/theshoqanebi/simple-adb-wifi?style=for-the-badge" alt="License">
+  <a href="https://github.com/theshoqanebi/android-morse">
+    <img src="https://img.shields.io/github/license/theshoqanebi/android-morse?style=for-the-badge" alt="License">
   </a>
 </p>
 
